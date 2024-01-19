@@ -1,0 +1,51 @@
+[
+    {
+        "membership": "Basic",
+        "storage": "500 GB",
+        "users-allowed": 2,
+        "send-up": "3 GB",
+        "payment": [
+        {
+            "type": "Annualy",
+            "price": 199.99
+        },
+        {
+            "type": "Monthly",
+            "price": 19.99
+        }
+        ]
+    },
+    {
+        "membership": "Professional",
+        "storage": "1 TB",
+        "users-allowed": 5,
+        "send-up": "10 GB",
+        "payment": [
+        {
+            "type": "Annualy",
+            "price": 249.99
+        },
+        {
+            "type": "Monthly",
+            "price": 24.99
+        }
+        ]
+    },
+    {
+        "membership": "Master",
+        "storage": "2 TB",
+        "users-allowed": 10,
+        "send-up": "20 GB",
+        "payment": [
+        {
+            "type": "Annualy",
+            "price": 399.99
+        },
+        {
+            "type": "Monthly",
+            "price": 39.99
+        }
+        ]
+    }
+
+]
