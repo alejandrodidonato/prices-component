@@ -2,8 +2,9 @@
     {
         "membership": "Basic",
         "storage": "500 GB",
-        "users-allowed": 2,
-        "send-up": "3 GB",
+        "users": 2,
+        "sendup": "3 GB",
+        "featured": false,
         "payment": [
         {
             "type": "Annualy",
@@ -18,8 +19,9 @@
     {
         "membership": "Professional",
         "storage": "1 TB",
-        "users-allowed": 5,
-        "send-up": "10 GB",
+        "users": 5,
+        "sendup": "10 GB",
+        "featured": true,
         "payment": [
         {
             "type": "Annualy",
@@ -34,8 +36,9 @@
     {
         "membership": "Master",
         "storage": "2 TB",
-        "users-allowed": 10,
-        "send-up": "20 GB",
+        "users": 10,
+        "sendup": "20 GB",
+        "featured": false,
         "payment": [
         {
             "type": "Annualy",
