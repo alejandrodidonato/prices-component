@@ -13,7 +13,7 @@ function App() {
 
   return (
     <>
-      <h1 className='text-primary mb-5 text-xl'>Our Pricing</h1>
+      <h1 className='text-primary text-xl'>Our Pricing</h1>
       <Switcher isChecked={isChecked} handleCheckboxChange={handleCheckboxChange} />
       <Cards membershipType={isChecked} />
     </>

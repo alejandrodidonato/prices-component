@@ -20,6 +20,7 @@ export default {
       white: '#FFFFFF'
     },
     fontSize: {
+      xs: '0.8rem',
       sm: '0.9rem',
       base: '1rem',
       lg: '1.2rem',
