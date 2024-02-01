@@ -8,18 +8,17 @@ Esta es una solución para el challenge de Frontend Mentor (https://www.frontend
   - [El challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+- [Hecho con](#built-with)
+- [Autor](#author)
 
-## Overview
+## Descripción General
 
 ### El challenge
 
 Los usuarios deben ser capaces de:
 
 - Ver el diseño del componente de forma óptima en todos los tamaños de dispositivos.
-- Controlar el el botón Toggle con el mouse y teclado.
+- Visualizar los precios mensuales y anuales mediante el switch.
 
 ### Screenshot
 
@@ -29,9 +28,7 @@ Los usuarios deben ser capaces de:
 
 - Live Site URL: https://prices-component.vercel.app/
 
-## My process
-
-### Built with
+### Hecho con
 
 - React
 - Tailwind CSS
@@ -39,7 +36,7 @@ Los usuarios deben ser capaces de:
 - Vite
 
 
-## Author
+## Autor
 
 - Alejandro Di Donato
 - Frontend Mentor - https://www.frontendmentor.io/profile/alejandrodidonato
