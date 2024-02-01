@@ -1,8 +1,45 @@
-# React + Vite
+# Frontend Mentor - Componente de precio con ToggleButton
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta es una solución para el challenge de Frontend Mentor (https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC).
 
-Currently, two official plugins are available:
+## Table of contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Descripción General](#overview)
+  - [El challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
+
+## Overview
+
+### El challenge
+
+Los usuarios deben ser capaces de:
+
+- Ver el diseño del componente de forma óptima en todos los tamaños de dispositivos.
+- Controlar el el botón Toggle con el mouse y teclado.
+
+### Screenshot
+
+![](./screenshot.png)
+
+### Links
+
+- Live Site URL: https://prices-component.vercel.app/
+
+## My process
+
+### Built with
+
+- React
+- Tailwind CSS
+- Flexbox
+- Vite
+
+
+## Author
+
+- Alejandro Di Donato
+- Frontend Mentor - https://www.frontendmentor.io/profile/alejandrodidonato
